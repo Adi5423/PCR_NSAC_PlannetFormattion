@@ -1,0 +1,3 @@
+Just create a empty game object (Ctrl+Shift+N)
+Drag and drop the Scripts/AdaptiveCubeSphere.cs script to the empty object 
+Here u can make the changes in the 3d sphere and proceurally generate the sphere from algorithm only, the details of all the 6 faces can be just increased higher or lower , ex make the points more refine and by subdividing the specific face. (increasing the count from 16 as for that, more vertices to handle.)
