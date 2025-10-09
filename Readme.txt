@@ -1,3 +1,7 @@
+Disclamer: 
+Following a brief miscommunication among our team members, our project scope has undergone a subtle shift. What initially began as “Building a Space Biology Knowledge Engine” has now evolved into “Create Your Own Challenge.”
+
+
 Create a 3d SRP project in unity.
 and then clone these files folders.
 
